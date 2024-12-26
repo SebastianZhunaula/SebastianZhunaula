@@ -10,7 +10,7 @@ Soy programador full stack. Me especializo en tecnologías con lenguajes como Ja
 
 Tengo sólidos conocimientos en dieseño grafico, creación de contenido 3D, creación de videojuegos y manejo de servidores.
 
-![Discord](https://img.shields.io/badge/Discord-devsebastian31-5865f2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-devsebastian44-5865f2?style=for-the-badge&logo=discord&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
